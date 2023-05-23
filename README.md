@@ -20,6 +20,6 @@ This plot shows the comparison of the elbow curves. Both methods suggest the bes
 
 ![](figures/elbow_curve.png)
 
-This plot shows the clustering results. Both methods give consistent results. 
+This plot shows the clustering results. Both methods give consistent results. The points in the PCA analysis are more separated compared with the original data clustering.
 
 ![](figures/crypto_clustering_org.png)![](figures/crypto_clustering_pca.png)
